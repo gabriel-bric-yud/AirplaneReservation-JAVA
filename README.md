@@ -1,3 +1,3 @@
-# Airline Reservation Application
+# Airplane Reservation Application
 
 Reserve seats on an airplane with this interactive java application.
